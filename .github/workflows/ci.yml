@@ -19,7 +19,7 @@ jobs:
           go-version: "1.26.0"
 
       - name: Current Version of go
-        run: (go version)
+        run: go version
             
 
 
